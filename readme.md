@@ -1,0 +1,1 @@
+##This is simple django project for publishing blogs
